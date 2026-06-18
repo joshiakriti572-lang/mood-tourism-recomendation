@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mood Tourism Nepal</title>
+
+    <!-- Leaflet -->
+    <link rel="stylesheet"
+        href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <!-- Fullscreen -->
+    <link rel="stylesheet"
+        href="https://unpkg.com/leaflet.fullscreen@1.6.0/Control.FullScreen.css" />
+
+    <!-- Routing -->
+    <link rel="stylesheet"
+        href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="topNav">
+        <div class="brand">Mood Tourism Nepal</div>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#explore">Explore</a>
+            <a href="#mapSection">Map</a>
+            <a href="#about">About</a>
+        </nav>
+        <button onclick="document.getElementById('mapSection').scrollIntoView({behavior:'smooth'})">
+            Explore Now
+        </button>
+    </header>
+
+   <section class="heroSection" id="home">
+    <div class="heroContent">
+
+        <span class="heroBadge">Smart Tourism WebGIS</span>
+
+        <h1>Discover Nepal Through Your Mood</h1>
+
+        <p>
+            Explore destinations that match your emotions using interactive maps,
+            GIS analysis, routes, boundaries, and tourism recommendations.
+        </p>
+
+        <div class="heroMoodList">
+            <div>Happy Tourism</div>
+            <div>Adventure Tourism</div>
+            <div>Spiritual Tourism</div>
+            <div>Romantic Tourism</div>
+            <div>Relax Tourism</div>
+        </div>
+
+        <p id="typingText" class="heroTypingText"></p>
+
+        <button onclick="document.getElementById('explore').scrollIntoView({behavior:'smooth'})">
+            Start Exploring
+        </button>
+
+    </div>
+</section>
+
+    <section class="searchSection" id="explore">
+        <div class="sidebar searchCard">
+
+            <div>
+                <h2>Plan Your Mood Trip</h2>
+                <p>Select your mood, radius, and road option.</p>
+            </div>
+
+            <div class="searchGrid">
+
+                <div class="fieldGroup">
+                    <label>Select Mood</label>
+                    <select id="moodSelect">
+                        <option value="Happy">Happy</option>
+                        <option value="Adventure">Adventure</option>
+                        <option value="Spiritual">Spiritual</option>
+                        <option value="Romantic">Romantic</option>
+                        <option value="Calm">Relax</option>
+                    </select>
+                </div>
+
+                <div class="fieldGroup">
+                    <label>Search Radius</label>
+                    <input type="range" id="radiusSlider" min="5" max="200" value="20">
+                    <p id="radiusValue">20 km</p>
+                </div>
+
+                <div class="fieldGroup">
+                    <label>Map Option</label>
+                    <div class="routeBox">
+                        <input type="checkbox" id="routeToggle" checked>
+                        <label for="routeToggle">Show Roads</label>
+                    </div>
+                </div>
+
+                <button onclick="showPlaces()">Search Places</button>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="mapSection" id="mapSection">
+        <div class="sectionTitle">
+            <span>Interactive Tourism Map</span>
+            <h2>Explore Recommended Places</h2>
+            <p>View basemaps, boundaries, routes, and mood-based tourism places.</p>
+        </div>
+
+        <div class="mapLayout">
+            <div class="mapPanel">
+                <div id="map"></div>
+            </div>
+
+            <div id="resultsContainer">
+                <div class="resultsIntro">
+                    <h3>Search Results</h3>
+                    <p>Your recommended places will appear here.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="aboutSection" id="about">
+        <h2>About This Project</h2>
+        <p>
+            Mood Tourism Nepal is a WebGIS application using Leaflet, FastAPI,
+            PostgreSQL, boundary layers, routing, and mood-based tourism recommendation.
+        </p>
+    </section>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+    <script src="https://unpkg.com/leaflet.fullscreen@1.6.0/Control.FullScreen.js"></script>
+    <script src="app.js"></script>
+
+</body>
+
+</html>
