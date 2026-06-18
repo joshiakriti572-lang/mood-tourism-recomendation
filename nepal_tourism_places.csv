@@ -1,0 +1,607 @@
+name,mood,description,latitude,longitude,vehicle,rating,opening_hours
+Pulchoki Mountain,Adventure,Popular adventure tourist destination in Nepal.,27.5708,85.40691,Walk/Taxi/Car,4.5,24 Hours
+Muktināth Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.81696,83.87175,Walk/Taxi/Car,4.5,24 Hours
+Langtang National Park,Calm,Popular calm tourist destination in Nepal.,28.04399,85.44692,Walk/Taxi/Car,4.5,24 Hours
+Baudhanāth Stupa,Spiritual,Popular spiritual tourist destination in Nepal.,27.71667,85.36667,Walk/Taxi/Car,4.5,24 Hours
+Park Village Resort,Calm,Popular calm tourist destination in Nepal.,27.797,85.379,Walk/Taxi/Car,4.5,24 Hours
+Kantipur Temple House,Spiritual,Popular spiritual tourist destination in Nepal.,27.7057,85.3152,Walk/Taxi/Car,4.5,24 Hours
+Annapurna Basecamp,Adventure,Popular adventure tourist destination in Nepal.,28.52949,83.8765,Walk/Taxi/Car,4.5,24 Hours
+Machapuchare Basecamp,Adventure,Popular adventure tourist destination in Nepal.,28.52632,83.90894,Walk/Taxi/Car,4.5,24 Hours
+Poon Hill,Calm,Popular calm tourist destination in Nepal.,28.39903,83.68896,Walk/Taxi/Car,4.5,24 Hours
+Royal Bardia National Park,Calm,Popular calm tourist destination in Nepal.,28.3649,81.5596,Walk/Taxi/Car,4.5,24 Hours
+Tenzing-Hillary Airport,Calm,Popular calm tourist destination in Nepal.,27.6869,86.7297,Walk/Taxi/Car,4.5,24 Hours
+Mountain Airport,Adventure,Popular adventure tourist destination in Nepal.,28,85.333,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa,Calm,Popular calm tourist destination in Nepal.,26.78763,86.10228,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa1,Calm,Popular calm tourist destination in Nepal.,26.7908,86.0985,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa2,Calm,Popular calm tourist destination in Nepal.,26.7916,86.1041,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa3,Calm,Popular calm tourist destination in Nepal.,26.79097,86.11397,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa4,Calm,Popular calm tourist destination in Nepal.,26.7873,86.1121,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa5,Calm,Popular calm tourist destination in Nepal.,26.7857,86.107,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa6,Calm,Popular calm tourist destination in Nepal.,26.7838,86.1031,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa7,Calm,Popular calm tourist destination in Nepal.,26.7849,86.0986,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa8,Calm,Popular calm tourist destination in Nepal.,26.7849,86.093,Walk/Taxi/Car,4.5,24 Hours
+ThillaYaduwa9,Calm,Popular calm tourist destination in Nepal.,26.7896,86.0942,Walk/Taxi/Car,4.5,24 Hours
+"Darlamdanda-5, Mathillo Koldanda",Calm,Popular calm tourist destination in Nepal.,27.91,83.6101,Walk/Taxi/Car,4.5,24 Hours
+Lakeside,Calm,Popular calm tourist destination in Nepal.,28.21111,83.95898,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pangdur,Calm,Popular calm tourist destination in Nepal.,27.43059,87.06982,Walk/Taxi/Car,4.5,24 Hours
+Parkuwa,Calm,Popular calm tourist destination in Nepal.,26.92034,87.10808,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Turban,Calm,Popular calm tourist destination in Nepal.,29.14569,81.46,Walk/Taxi/Car,4.5,24 Hours
+Khartamchha Mathillotol,Calm,Popular calm tourist destination in Nepal.,27.35464,87.05703,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Harka,Calm,Popular calm tourist destination in Nepal.,27.04426,87.13087,Walk/Taxi/Car,4.5,24 Hours
+Barmelicamp,Adventure,Popular adventure tourist destination in Nepal.,27.69732,84.44433,Walk/Taxi/Car,4.5,24 Hours
+Chitrekot,Adventure,Popular adventure tourist destination in Nepal.,27.62143,84.62585,Walk/Taxi/Car,4.5,24 Hours
+Hurdimathillo,Calm,Popular calm tourist destination in Nepal.,27.81936,84.59945,Walk/Taxi/Car,4.5,24 Hours
+Parkhal,Calm,Popular calm tourist destination in Nepal.,27.67829,84.76725,Walk/Taxi/Car,4.5,24 Hours
+Mathillodobato,Calm,Popular calm tourist destination in Nepal.,27.65883,84.55087,Walk/Taxi/Car,4.5,24 Hours
+Temple Tiger,Spiritual,Popular spiritual tourist destination in Nepal.,27.53751,84.0817,Walk/Taxi/Car,4.5,24 Hours
+Parkot,Calm,Popular calm tourist destination in Nepal.,29.36592,80.48834,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kaphali,Calm,Popular calm tourist destination in Nepal.,29.20834,80.57277,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Debari,Calm,Popular calm tourist destination in Nepal.,29.0842,80.32153,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khajurani,Calm,Popular calm tourist destination in Nepal.,29.12718,80.39454,Walk/Taxi/Car,4.5,24 Hours
+Kaparkot,Calm,Popular calm tourist destination in Nepal.,29.28836,80.73171,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dunggeswar,Calm,Popular calm tourist destination in Nepal.,28.76229,81.66607,Walk/Taxi/Car,4.5,24 Hours
+Khaparkot,Calm,Popular calm tourist destination in Nepal.,29.11587,81.42253,Walk/Taxi/Car,4.5,24 Hours
+Phaparkot,Calm,Popular calm tourist destination in Nepal.,29.13395,81.43438,Walk/Taxi/Car,4.5,24 Hours
+Manthillo Gairigaun,Calm,Popular calm tourist destination in Nepal.,29.03199,81.56941,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lakuri,Calm,Popular calm tourist destination in Nepal.,28.78352,81.72924,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bijaure,Calm,Popular calm tourist destination in Nepal.,28.85687,81.73544,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tartang,Calm,Popular calm tourist destination in Nepal.,28.82978,81.71962,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Nauli,Calm,Popular calm tourist destination in Nepal.,28.88843,81.80521,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Adguri,Calm,Popular calm tourist destination in Nepal.,27.93917,83.17208,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Majuwa,Calm,Popular calm tourist destination in Nepal.,28.20749,82.21331,Walk/Taxi/Car,4.5,24 Hours
+Campus,Adventure,Popular adventure tourist destination in Nepal.,28.11809,82.34024,Walk/Taxi/Car,4.5,24 Hours
+Chillikot,Calm,Popular calm tourist destination in Nepal.,28.15437,82.40149,Walk/Taxi/Car,4.5,24 Hours
+Chhillikot,Calm,Popular calm tourist destination in Nepal.,28.15102,82.40706,Walk/Taxi/Car,4.5,24 Hours
+Chaparke,Calm,Popular calm tourist destination in Nepal.,28.00547,82.34897,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Satkhara,Calm,Popular calm tourist destination in Nepal.,28.12539,82.46959,Walk/Taxi/Car,4.5,24 Hours
+Mathillo kalamghari,Calm,Popular calm tourist destination in Nepal.,28.08946,82.46671,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lamdaruwa,Calm,Popular calm tourist destination in Nepal.,28.06086,82.4356,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ganeshpur,Calm,Popular calm tourist destination in Nepal.,28.09392,82.41497,Walk/Taxi/Car,4.5,24 Hours
+Campus,Adventure,Popular adventure tourist destination in Nepal.,28.09436,82.36264,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gajamari,Calm,Popular calm tourist destination in Nepal.,27.91952,82.13038,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Manaura,Calm,Popular calm tourist destination in Nepal.,27.91952,82.10727,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lape,Calm,Popular calm tourist destination in Nepal.,28.10155,82.5015,Walk/Taxi/Car,4.5,24 Hours
+Tribhuwan Park,Calm,Popular calm tourist destination in Nepal.,28.04742,82.4875,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lape,Calm,Popular calm tourist destination in Nepal.,28.10148,82.49649,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Nampa,Calm,Popular calm tourist destination in Nepal.,30.08361,80.92294,Walk/Taxi/Car,4.5,24 Hours
+Khillurai,Calm,Popular calm tourist destination in Nepal.,28.04441,83.0598,Walk/Taxi/Car,4.5,24 Hours
+Tallo Khillu,Calm,Popular calm tourist destination in Nepal.,28.03852,83.06184,Walk/Taxi/Car,4.5,24 Hours
+Phalamkhilli,Calm,Popular calm tourist destination in Nepal.,28.01273,83.03089,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Marphul,Calm,Popular calm tourist destination in Nepal.,29.82464,80.93294,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Rampur,Calm,Popular calm tourist destination in Nepal.,27.9631,84.78234,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dhusa,Calm,Popular calm tourist destination in Nepal.,27.78216,84.75963,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Mulabari,Calm,Popular calm tourist destination in Nepal.,28.04911,84.88099,Walk/Taxi/Car,4.5,24 Hours
+Pokhara Mathillo,Calm,Popular calm tourist destination in Nepal.,28.06166,84.85809,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bajar,Calm,Popular calm tourist destination in Nepal.,27.91079,84.90701,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gauthale,Calm,Popular calm tourist destination in Nepal.,27.82595,84.83928,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Amdanda,Calm,Popular calm tourist destination in Nepal.,26.89961,87.49362,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sipting,Calm,Popular calm tourist destination in Nepal.,27.00617,87.33635,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kopche,Calm,Popular calm tourist destination in Nepal.,26.98041,87.35061,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Phawa,Calm,Popular calm tourist destination in Nepal.,27.07168,87.2722,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Giddhe,Calm,Popular calm tourist destination in Nepal.,26.88743,87.45753,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sanne,Calm,Popular calm tourist destination in Nepal.,27.07711,87.30764,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Okhre,Calm,Popular calm tourist destination in Nepal.,27.05522,87.31584,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dhansari,Calm,Popular calm tourist destination in Nepal.,26.9188,86.25006,Walk/Taxi/Car,4.5,24 Hours
+Thilla,Calm,Popular calm tourist destination in Nepal.,26.78843,86.10081,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Duma,Calm,Popular calm tourist destination in Nepal.,27.5359,86.03851,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Mati,Calm,Popular calm tourist destination in Nepal.,27.65364,86.05547,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sikrigaun,Calm,Popular calm tourist destination in Nepal.,27.62488,86.21024,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sikri,Calm,Popular calm tourist destination in Nepal.,27.63046,86.20453,Walk/Taxi/Car,4.5,24 Hours
+Chillikher,Calm,Popular calm tourist destination in Nepal.,29.11171,82.52622,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sirkholi,Calm,Popular calm tourist destination in Nepal.,29.27373,80.90589,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Uditola,Calm,Popular calm tourist destination in Nepal.,29.28412,81.00373,Walk/Taxi/Car,4.5,24 Hours
+Khillek,Calm,Popular calm tourist destination in Nepal.,29.16071,80.98011,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gaguda,Calm,Popular calm tourist destination in Nepal.,29.14018,81.03025,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sani Khaigad,Calm,Popular calm tourist destination in Nepal.,29.15857,80.63942,Walk/Taxi/Car,4.5,24 Hours
+Uparkanda,Calm,Popular calm tourist destination in Nepal.,29.28069,81.10357,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chalis,Calm,Popular calm tourist destination in Nepal.,29.0323,81.05473,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Alyadi,Calm,Popular calm tourist destination in Nepal.,29.151,80.74371,Walk/Taxi/Car,4.5,24 Hours
+Uparkot,Calm,Popular calm tourist destination in Nepal.,29.13398,80.71322,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Majhigaun,Calm,Popular calm tourist destination in Nepal.,27.96075,84.45175,Walk/Taxi/Car,4.5,24 Hours
+MathilloGankhu,Calm,Popular calm tourist destination in Nepal.,28.06272,84.61445,Walk/Taxi/Car,4.5,24 Hours
+MathilloKatrok,Calm,Popular calm tourist destination in Nepal.,27.79384,84.82662,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Barbang,Calm,Popular calm tourist destination in Nepal.,27.80644,84.80346,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhirsing,Calm,Popular calm tourist destination in Nepal.,28.14786,84.6155,Walk/Taxi/Car,4.5,24 Hours
+Manakamana Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.9051,84.58931,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gurunggaun,Calm,Popular calm tourist destination in Nepal.,27.9449,84.70171,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Swanra,Calm,Popular calm tourist destination in Nepal.,28.03185,84.61413,Walk/Taxi/Car,4.5,24 Hours
+Kalika Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.0059,84.63317,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ekle,Calm,Popular calm tourist destination in Nepal.,28.10324,84.71301,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Thotneri,Calm,Popular calm tourist destination in Nepal.,28.13406,84.74366,Walk/Taxi/Car,4.5,24 Hours
+Bhumethan Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.14715,84.68091,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Masar,Calm,Popular calm tourist destination in Nepal.,28.07794,84.66917,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Japhdi,Calm,Popular calm tourist destination in Nepal.,28.09826,84.67666,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhade,Calm,Popular calm tourist destination in Nepal.,28.09366,83.25824,Walk/Taxi/Car,4.5,24 Hours
+Hulake,Calm,Popular calm tourist destination in Nepal.,28.12369,83.19461,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ratamate,Calm,Popular calm tourist destination in Nepal.,28.08716,83.301,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kalpe,Calm,Popular calm tourist destination in Nepal.,29.76867,82.01855,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Mekhala,Calm,Popular calm tourist destination in Nepal.,29.76515,82.11146,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pali,Calm,Popular calm tourist destination in Nepal.,29.77528,82.07218,Walk/Taxi/Car,4.5,24 Hours
+Mathillogaun,Calm,Popular calm tourist destination in Nepal.,29.97606,81.81927,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Patapur,Calm,Popular calm tourist destination in Nepal.,26.78794,88.17456,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ratmate,Calm,Popular calm tourist destination in Nepal.,28.35577,83.35935,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhaluke,Calm,Popular calm tourist destination in Nepal.,28.94188,81.95233,Walk/Taxi/Car,4.5,24 Hours
+Bahunparka,Calm,Popular calm tourist destination in Nepal.,28.76249,81.95129,Walk/Taxi/Car,4.5,24 Hours
+Refugee Camp,Adventure,Popular adventure tourist destination in Nepal.,26.72365,87.70289,Walk/Taxi/Car,4.5,24 Hours
+Refugee Camp,Adventure,Popular adventure tourist destination in Nepal.,26.71303,87.69969,Walk/Taxi/Car,4.5,24 Hours
+Refugee Camp,Adventure,Popular adventure tourist destination in Nepal.,26.71962,87.69145,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tarabari,Calm,Popular calm tourist destination in Nepal.,26.68672,87.65912,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhuteni,Calm,Popular calm tourist destination in Nepal.,26.5858,87.99232,Walk/Taxi/Car,4.5,24 Hours
+Campus,Adventure,Popular adventure tourist destination in Nepal.,26.55971,87.71929,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chilhara,Calm,Popular calm tourist destination in Nepal.,26.4651,87.68536,Walk/Taxi/Car,4.5,24 Hours
+Refugee Camp,Adventure,Popular adventure tourist destination in Nepal.,26.71204,87.96401,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bandre,Calm,Popular calm tourist destination in Nepal.,28.30064,83.57706,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Padajungi,Calm,Popular calm tourist destination in Nepal.,26.66472,87.72091,Walk/Taxi/Car,4.5,24 Hours
+Chillagadh,Calm,Popular calm tourist destination in Nepal.,26.63233,87.85651,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lorpa,Calm,Popular calm tourist destination in Nepal.,29.32481,82.26173,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ghede,Calm,Popular calm tourist destination in Nepal.,29.19212,81.95671,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dolaghat,Calm,Popular calm tourist destination in Nepal.,29.18675,82.4536,Walk/Taxi/Car,4.5,24 Hours
+Piparkoti,Calm,Popular calm tourist destination in Nepal.,28.65894,81.09944,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhawar,Calm,Popular calm tourist destination in Nepal.,28.92669,80.57792,Walk/Taxi/Car,4.5,24 Hours
+Piparkoti,Calm,Popular calm tourist destination in Nepal.,28.52079,81.02675,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhatkuri,Calm,Popular calm tourist destination in Nepal.,28.77338,81.14965,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Godan,Calm,Popular calm tourist destination in Nepal.,28.74937,81.13846,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Talseri,Calm,Popular calm tourist destination in Nepal.,29.41001,81.80691,Walk/Taxi/Car,4.5,24 Hours
+Campus,Adventure,Popular adventure tourist destination in Nepal.,28.22126,83.65011,Walk/Taxi/Car,4.5,24 Hours
+Kaluwapur (Aghillopatti),Calm,Popular calm tourist destination in Nepal.,28.78781,80.52685,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Jhilmila,Calm,Popular calm tourist destination in Nepal.,28.78937,80.23478,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gauji,Calm,Popular calm tourist destination in Nepal.,28.99844,80.22196,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gauji,Calm,Popular calm tourist destination in Nepal.,29.00401,80.22301,Walk/Taxi/Car,4.5,24 Hours
+Phaparkhet,Calm,Popular calm tourist destination in Nepal.,28.21349,83.38344,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Puditar,Calm,Popular calm tourist destination in Nepal.,28.10417,84.06385,Walk/Taxi/Car,4.5,24 Hours
+Annapurna Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.53082,83.88072,Walk/Taxi/Car,4.5,24 Hours
+Machhapuchchhre Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.52677,83.89805,Walk/Taxi/Car,4.5,24 Hours
+Tibbetian Camp,Adventure,Popular adventure tourist destination in Nepal.,28.26225,83.95595,Walk/Taxi/Car,4.5,24 Hours
+Phaparkhet,Calm,Popular calm tourist destination in Nepal.,28.27362,83.47521,Walk/Taxi/Car,4.5,24 Hours
+Piparkharka,Calm,Popular calm tourist destination in Nepal.,28.41246,83.95829,Walk/Taxi/Car,4.5,24 Hours
+Parkyu,Calm,Popular calm tourist destination in Nepal.,28.27083,84.18338,Walk/Taxi/Car,4.5,24 Hours
+Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.20827,83.95422,Walk/Taxi/Car,4.5,24 Hours
+Ratna Mandir Palace,Happy,Popular happy tourist destination in Nepal.,28.2071,83.96138,Walk/Taxi/Car,4.5,24 Hours
+Basundhara Park,Calm,Popular calm tourist destination in Nepal.,28.20424,83.96672,Walk/Taxi/Car,4.5,24 Hours
+Penson Camp,Adventure,Popular adventure tourist destination in Nepal.,28.20013,83.99754,Walk/Taxi/Car,4.5,24 Hours
+Museum,Happy,Popular happy tourist destination in Nepal.,28.19026,83.98293,Walk/Taxi/Car,4.5,24 Hours
+Tibetain Refugee Camp,Adventure,Popular adventure tourist destination in Nepal.,28.18872,83.96205,Walk/Taxi/Car,4.5,24 Hours
+Engineering Campus,Adventure,Popular adventure tourist destination in Nepal.,28.25368,83.97868,Walk/Taxi/Car,4.5,24 Hours
+Bhadrakali temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.21423,84.00981,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sunpani,Calm,Popular calm tourist destination in Nepal.,28.25544,83.35876,Walk/Taxi/Car,4.5,24 Hours
+Parkyu,Calm,Popular calm tourist destination in Nepal.,28.31113,83.9853,Walk/Taxi/Car,4.5,24 Hours
+MathilloBharpola,Calm,Popular calm tourist destination in Nepal.,28.16697,84.15166,Walk/Taxi/Car,4.5,24 Hours
+MathilloKeurani,Calm,Popular calm tourist destination in Nepal.,28.23312,84.1037,Walk/Taxi/Car,4.5,24 Hours
+Narayanhiti Royal Palace,Happy,Popular happy tourist destination in Nepal.,27.71738,85.31971,Walk/Taxi/Car,4.5,24 Hours
+Ratnapark,Calm,Popular calm tourist destination in Nepal.,27.7075,85.31549,Walk/Taxi/Car,4.5,24 Hours
+Hilledol,Calm,Popular calm tourist destination in Nepal.,27.74536,85.31269,Walk/Taxi/Car,4.5,24 Hours
+Mathillogaun,Calm,Popular calm tourist destination in Nepal.,27.49907,85.44992,Walk/Taxi/Car,4.5,24 Hours
+Parkhalchaur,Calm,Popular calm tourist destination in Nepal.,27.59848,85.45898,Walk/Taxi/Car,4.5,24 Hours
+Pheparku,Calm,Popular calm tourist destination in Nepal.,27.34806,86.77857,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dihu,Calm,Popular calm tourist destination in Nepal.,27.1031,86.84231,Walk/Taxi/Car,4.5,24 Hours
+Tilake,Calm,Popular calm tourist destination in Nepal.,27.02181,86.89113,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dikuwa,Calm,Popular calm tourist destination in Nepal.,27.11901,86.49559,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Salle,Calm,Popular calm tourist destination in Nepal.,27.34564,86.70527,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Mabe,Calm,Popular calm tourist destination in Nepal.,27.03019,86.77647,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Majhuwa,Calm,Popular calm tourist destination in Nepal.,27.02781,86.79846,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lichki,Calm,Popular calm tourist destination in Nepal.,27.02379,86.78978,Walk/Taxi/Car,4.5,24 Hours
+Barre Mathillo,Calm,Popular calm tourist destination in Nepal.,27.04042,86.81793,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Asrang,Calm,Popular calm tourist destination in Nepal.,27.46275,85.32484,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Burangchule,Calm,Popular calm tourist destination in Nepal.,27.5626,85.29709,Walk/Taxi/Car,4.5,24 Hours
+Sanu Chille,Calm,Popular calm tourist destination in Nepal.,27.48599,85.32089,Walk/Taxi/Car,4.5,24 Hours
+Thulo Chille,Calm,Popular calm tourist destination in Nepal.,27.48248,85.32241,Walk/Taxi/Car,4.5,24 Hours
+Chillethumka,Calm,Popular calm tourist destination in Nepal.,27.48697,85.32791,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Malta,Calm,Popular calm tourist destination in Nepal.,27.50581,85.25958,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Matiul,Calm,Popular calm tourist destination in Nepal.,29.42631,80.34625,Walk/Taxi/Car,4.5,24 Hours
+Chillepani,Calm,Popular calm tourist destination in Nepal.,29.51257,80.51718,Walk/Taxi/Car,4.5,24 Hours
+Chillepani,Calm,Popular calm tourist destination in Nepal.,29.50869,80.50851,Walk/Taxi/Car,4.5,24 Hours
+Chillebas,Calm,Popular calm tourist destination in Nepal.,27.45294,85.09178,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Supin,Calm,Popular calm tourist destination in Nepal.,27.52375,85.13948,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pauwa,Calm,Popular calm tourist destination in Nepal.,27.66079,85.18279,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Asuro,Calm,Popular calm tourist destination in Nepal.,29.38987,80.39059,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Anpgairi,Calm,Popular calm tourist destination in Nepal.,27.24337,85.31111,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Simle,Calm,Popular calm tourist destination in Nepal.,27.35016,85.31177,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhuwanchuli,Calm,Popular calm tourist destination in Nepal.,27.34518,85.28636,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ranidanda,Calm,Popular calm tourist destination in Nepal.,27.41301,85.20046,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sisne,Calm,Popular calm tourist destination in Nepal.,27.43787,85.2938,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhirkot,Calm,Popular calm tourist destination in Nepal.,27.34797,85.24033,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Karkidanda,Calm,Popular calm tourist destination in Nepal.,27.44508,85.15338,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Simat,Calm,Popular calm tourist destination in Nepal.,27.42522,85.23423,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pipaldanda,Calm,Popular calm tourist destination in Nepal.,27.39673,85.23902,Walk/Taxi/Car,4.5,24 Hours
+Mountaineering School,Adventure,Popular adventure tourist destination in Nepal.,28.6438,84.07005,Walk/Taxi/Car,4.5,24 Hours
+Milerpa Cave,Happy,Popular happy tourist destination in Nepal.,28.64234,84.04408,Walk/Taxi/Car,4.5,24 Hours
+Tilicho Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.68165,83.89856,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dharapanee,Calm,Popular calm tourist destination in Nepal.,28.52612,84.35595,Walk/Taxi/Car,4.5,24 Hours
+Base Camp (High Camp),Adventure,Popular adventure tourist destination in Nepal.,28.7895,83.95853,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Harakpur,Calm,Popular calm tourist destination in Nepal.,26.56702,87.51511,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Harakpur,Calm,Popular calm tourist destination in Nepal.,26.57664,87.51342,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Mainabari,Calm,Popular calm tourist destination in Nepal.,26.64444,87.41194,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lalbhitti,Calm,Popular calm tourist destination in Nepal.,26.67082,87.40999,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Balepur,Calm,Popular calm tourist destination in Nepal.,26.645,87.38911,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Jogichaur,Calm,Popular calm tourist destination in Nepal.,26.65066,87.38236,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kaseni,Calm,Popular calm tourist destination in Nepal.,26.60573,87.3953,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kheruwa,Calm,Popular calm tourist destination in Nepal.,26.7603,87.51688,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kheruwa,Calm,Popular calm tourist destination in Nepal.,26.74492,87.51288,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pangre Jhalas,Calm,Popular calm tourist destination in Nepal.,26.61007,87.58854,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bumcha,Calm,Popular calm tourist destination in Nepal.,29.61858,82.02335,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tum,Calm,Popular calm tourist destination in Nepal.,29.5456,82.13314,Walk/Taxi/Car,4.5,24 Hours
+Birat Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.44644,81.95676,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kotila,Calm,Popular calm tourist destination in Nepal.,29.47912,82.16829,Walk/Taxi/Car,4.5,24 Hours
+Puchhar Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.69221,83.44165,Walk/Taxi/Car,4.5,24 Hours
+Talitrekharka,Adventure,Popular adventure tourist destination in Nepal.,28.65566,83.44769,Walk/Taxi/Car,4.5,24 Hours
+Phaparkhet,Calm,Popular calm tourist destination in Nepal.,28.37383,83.50178,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Siun,Calm,Popular calm tourist destination in Nepal.,27.85026,84.04753,Walk/Taxi/Car,4.5,24 Hours
+Hille,Calm,Popular calm tourist destination in Nepal.,27.94596,85.21721,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Saini,Calm,Popular calm tourist destination in Nepal.,29.52813,80.42071,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Jhyangli,Calm,Popular calm tourist destination in Nepal.,27.79786,85.137,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Siudinigaun,Calm,Popular calm tourist destination in Nepal.,27.7885,85.2405,Walk/Taxi/Car,4.5,24 Hours
+Phaparkhet,Calm,Popular calm tourist destination in Nepal.,27.92698,85.43183,Walk/Taxi/Car,4.5,24 Hours
+Tilake,Calm,Popular calm tourist destination in Nepal.,27.98563,85.40272,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Paundi,Calm,Popular calm tourist destination in Nepal.,27.83539,85.37955,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tame,Calm,Popular calm tourist destination in Nepal.,27.93589,85.3592,Walk/Taxi/Car,4.5,24 Hours
+Uparkhuttetol,Calm,Popular calm tourist destination in Nepal.,27.97655,85.17868,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Andheri,Calm,Popular calm tourist destination in Nepal.,27.27908,86.53717,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhadaure,Calm,Popular calm tourist destination in Nepal.,27.27154,86.61694,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Richuwa,Calm,Popular calm tourist destination in Nepal.,27.19043,86.46139,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Moli,Calm,Popular calm tourist destination in Nepal.,27.24347,86.54838,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Mad,Calm,Popular calm tourist destination in Nepal.,29.40618,80.34606,Walk/Taxi/Car,4.5,24 Hours
+Hulakechaur,Calm,Popular calm tourist destination in Nepal.,27.3382,86.24369,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Baulaha,Calm,Popular calm tourist destination in Nepal.,27.27239,86.34332,Walk/Taxi/Car,4.5,24 Hours
+Parkuta,Calm,Popular calm tourist destination in Nepal.,27.79388,83.84713,Walk/Taxi/Car,4.5,24 Hours
+Mathillo chhap,Calm,Popular calm tourist destination in Nepal.,27.87231,83.77161,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Humin,Calm,Popular calm tourist destination in Nepal.,27.82297,83.6808,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sarsiula,Calm,Popular calm tourist destination in Nepal.,27.13443,87.73206,Walk/Taxi/Car,4.5,24 Hours
+Mathillogaun,Calm,Popular calm tourist destination in Nepal.,27.13996,87.7721,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Simra,Calm,Popular calm tourist destination in Nepal.,27.09536,87.639,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhulke,Calm,Popular calm tourist destination in Nepal.,27.05943,87.58009,Walk/Taxi/Car,4.5,24 Hours
+Parkoti,Calm,Popular calm tourist destination in Nepal.,29.45831,80.27899,Walk/Taxi/Car,4.5,24 Hours
+Campus,Adventure,Popular adventure tourist destination in Nepal.,28.1605,83.64434,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Goradi,Calm,Popular calm tourist destination in Nepal.,28.06214,83.65498,Walk/Taxi/Car,4.5,24 Hours
+Campus,Adventure,Popular adventure tourist destination in Nepal.,28.23219,83.67535,Walk/Taxi/Car,4.5,24 Hours
+Cave,Happy,Popular happy tourist destination in Nepal.,28.22983,83.67596,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Seli,Calm,Popular calm tourist destination in Nepal.,29.48795,80.33569,Walk/Taxi/Car,4.5,24 Hours
+Campus,Adventure,Popular adventure tourist destination in Nepal.,28.20669,83.73283,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gijyang,Calm,Popular calm tourist destination in Nepal.,28.24938,83.71867,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Basti,Calm,Popular calm tourist destination in Nepal.,27.31625,84.65602,Walk/Taxi/Car,4.5,24 Hours
+Gadhimai Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.06039,84.86439,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sungure,Calm,Popular calm tourist destination in Nepal.,28.28056,83.08738,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sihanla,Calm,Popular calm tourist destination in Nepal.,28.16679,83.01526,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dhnda,Calm,Popular calm tourist destination in Nepal.,27.91124,82.815,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Malarani,Calm,Popular calm tourist destination in Nepal.,28.16137,82.66599,Walk/Taxi/Car,4.5,24 Hours
+Mathillo  Bhegni,Calm,Popular calm tourist destination in Nepal.,28.32598,82.97817,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gagal,Calm,Popular calm tourist destination in Nepal.,27.46069,85.9749,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhadaure,Calm,Popular calm tourist destination in Nepal.,27.45669,85.98518,Walk/Taxi/Car,4.5,24 Hours
+Mathillogaun,Calm,Popular calm tourist destination in Nepal.,27.40539,86.21075,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chankhu,Calm,Popular calm tourist destination in Nepal.,27.44997,86.04496,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Natila,Calm,Popular calm tourist destination in Nepal.,27.44563,86.06981,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Goganpani,Calm,Popular calm tourist destination in Nepal.,27.44615,85.95255,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Machabari,Calm,Popular calm tourist destination in Nepal.,27.34568,86.10947,Walk/Taxi/Car,4.5,24 Hours
+Sotrekhani,Adventure,Popular adventure tourist destination in Nepal.,27.58849,86.29687,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khyaku,Calm,Popular calm tourist destination in Nepal.,27.20454,85.36512,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Okhadan,Calm,Popular calm tourist destination in Nepal.,29.46636,80.83743,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhitriban,Calm,Popular calm tourist destination in Nepal.,28.45289,82.6896,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Majhing,Calm,Popular calm tourist destination in Nepal.,28.36804,82.68326,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gapa,Calm,Popular calm tourist destination in Nepal.,28.36582,82.67492,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dhanpokhara,Calm,Popular calm tourist destination in Nepal.,28.40779,82.66415,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kewari,Calm,Popular calm tourist destination in Nepal.,28.48852,82.51087,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Righim,Calm,Popular calm tourist destination in Nepal.,28.36256,82.72827,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khonchyang,Calm,Popular calm tourist destination in Nepal.,28.32943,82.87567,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khonchyang,Calm,Popular calm tourist destination in Nepal.,28.32808,82.8716,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sanchaur,Calm,Popular calm tourist destination in Nepal.,28.29627,82.73069,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Righim,Calm,Popular calm tourist destination in Nepal.,28.36335,82.71411,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Patle,Calm,Popular calm tourist destination in Nepal.,28.35857,82.46345,Walk/Taxi/Car,4.5,24 Hours
+Kathille,Calm,Popular calm tourist destination in Nepal.,29.44261,80.66971,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lapchan,Calm,Popular calm tourist destination in Nepal.,28.37484,82.53974,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lapchan,Calm,Popular calm tourist destination in Nepal.,28.37855,82.53848,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gairakhutti,Calm,Popular calm tourist destination in Nepal.,28.42493,82.64627,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Rangkot,Calm,Popular calm tourist destination in Nepal.,28.49634,82.54098,Walk/Taxi/Car,4.5,24 Hours
+Barah Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.45011,82.72355,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Changling,Calm,Popular calm tourist destination in Nepal.,28.41796,82.61828,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Magma,Calm,Popular calm tourist destination in Nepal.,28.70824,82.44759,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Jyamire,Calm,Popular calm tourist destination in Nepal.,28.65361,82.41122,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Hampal,Calm,Popular calm tourist destination in Nepal.,28.54063,82.40528,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Loli,Calm,Popular calm tourist destination in Nepal.,29.23801,81.16677,Walk/Taxi/Car,4.5,24 Hours
+Chetrekholagaun,Adventure,Popular adventure tourist destination in Nepal.,28.60199,82.51025,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lasune,Calm,Popular calm tourist destination in Nepal.,28.59562,82.56281,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Amdanda,Calm,Popular calm tourist destination in Nepal.,28.6479,82.34462,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chhinga,Calm,Popular calm tourist destination in Nepal.,28.66539,82.48721,Walk/Taxi/Car,4.5,24 Hours
+Tribhuwan Park,Calm,Popular calm tourist destination in Nepal.,27.70073,83.46982,Walk/Taxi/Car,4.5,24 Hours
+Kaparkatti,Calm,Popular calm tourist destination in Nepal.,27.65671,83.37546,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Golakpur,Calm,Popular calm tourist destination in Nepal.,28.56449,82.24222,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kanda,Calm,Popular calm tourist destination in Nepal.,28.59506,82.09824,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Syanla,Calm,Popular calm tourist destination in Nepal.,28.35375,82.12745,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Babarpur,Calm,Popular calm tourist destination in Nepal.,28.19395,82.09502,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Simalkuna,Calm,Popular calm tourist destination in Nepal.,28.19792,82.00844,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Syanla,Calm,Popular calm tourist destination in Nepal.,28.2571,82.15284,Walk/Taxi/Car,4.5,24 Hours
+chillechaur,Calm,Popular calm tourist destination in Nepal.,28.43208,82.03374,Walk/Taxi/Car,4.5,24 Hours
+Chillechaur,Calm,Popular calm tourist destination in Nepal.,28.44471,81.99484,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Salyano,Calm,Popular calm tourist destination in Nepal.,29.19188,81.261,Walk/Taxi/Car,4.5,24 Hours
+Mathilla Makhula,Calm,Popular calm tourist destination in Nepal.,28.41064,82.2805,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ranikot,Calm,Popular calm tourist destination in Nepal.,28.37452,82.14399,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sailagamda,Calm,Popular calm tourist destination in Nepal.,28.38649,82.14286,Walk/Taxi/Car,4.5,24 Hours
+Malika Devi Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.5606,81.39915,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Jyula,Calm,Popular calm tourist destination in Nepal.,28.46131,82.25755,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Childhale,Calm,Popular calm tourist destination in Nepal.,28.47671,82.31876,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Humbung,Calm,Popular calm tourist destination in Nepal.,27.2341,87.31052,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tar,Calm,Popular calm tourist destination in Nepal.,27.32925,87.20195,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chewa,Calm,Popular calm tourist destination in Nepal.,27.40124,87.18523,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Malta,Calm,Popular calm tourist destination in Nepal.,27.4266,87.21165,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pangtha,Calm,Popular calm tourist destination in Nepal.,27.42766,87.23968,Walk/Taxi/Car,4.5,24 Hours
+Mathilla Dandagaun,Calm,Popular calm tourist destination in Nepal.,27.47472,87.24654,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Syabun,Calm,Popular calm tourist destination in Nepal.,27.37448,87.31279,Walk/Taxi/Car,4.5,24 Hours
+Masta Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.65768,81.26862,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khorkatti,Calm,Popular calm tourist destination in Nepal.,26.98684,85.43317,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chisapani,Calm,Popular calm tourist destination in Nepal.,27.09881,85.71838,Walk/Taxi/Car,4.5,24 Hours
+Phalake,Calm,Popular calm tourist destination in Nepal.,27.15111,85.75285,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tikuliya,Calm,Popular calm tourist destination in Nepal.,27.02922,85.63878,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Damar,Calm,Popular calm tourist destination in Nepal.,27.06738,86.28469,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhokteni,Calm,Popular calm tourist destination in Nepal.,27.33933,85.80746,Walk/Taxi/Car,4.5,24 Hours
+Mathillokhorkhola,Calm,Popular calm tourist destination in Nepal.,27.08858,86.05703,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bore,Calm,Popular calm tourist destination in Nepal.,27.28634,85.9417,Walk/Taxi/Car,4.5,24 Hours
+Mathillobesi,Calm,Popular calm tourist destination in Nepal.,27.31828,85.9864,Walk/Taxi/Car,4.5,24 Hours
+Mathillogaun,Calm,Popular calm tourist destination in Nepal.,27.31275,85.95199,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Odare,Calm,Popular calm tourist destination in Nepal.,27.12012,86.27615,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Katle,Calm,Popular calm tourist destination in Nepal.,27.01928,86.32482,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Woida,Calm,Popular calm tourist destination in Nepal.,29.43697,81.03644,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chanaute,Calm,Popular calm tourist destination in Nepal.,27.18201,86.26649,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sugare,Calm,Popular calm tourist destination in Nepal.,26.9809,86.32701,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhulke,Calm,Popular calm tourist destination in Nepal.,27.11921,86.32863,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Deujor,Calm,Popular calm tourist destination in Nepal.,27.27686,85.78988,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Aincheli,Calm,Popular calm tourist destination in Nepal.,29.47039,81.14364,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Sokan,Calm,Popular calm tourist destination in Nepal.,27.28057,85.50544,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ranibaas,Calm,Popular calm tourist destination in Nepal.,27.08133,86.01584,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chainpur,Calm,Popular calm tourist destination in Nepal.,27.36352,85.95277,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ahale,Calm,Popular calm tourist destination in Nepal.,27.33037,85.75689,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Patringa,Calm,Popular calm tourist destination in Nepal.,26.98331,86.24414,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dunde,Calm,Popular calm tourist destination in Nepal.,27.79729,85.61341,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pyughar,Calm,Popular calm tourist destination in Nepal.,27.78919,85.61176,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Koreli,Calm,Popular calm tourist destination in Nepal.,29.5335,81.28016,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Isin,Calm,Popular calm tourist destination in Nepal.,27.90088,85.57918,Walk/Taxi/Car,4.5,24 Hours
+Mathillogaun,Calm,Popular calm tourist destination in Nepal.,27.85177,85.53167,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Shobhapur,Calm,Popular calm tourist destination in Nepal.,26.77585,86.47268,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Mahajani,Calm,Popular calm tourist destination in Nepal.,26.86135,86.44971,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khutti,Calm,Popular calm tourist destination in Nepal.,26.85113,86.43455,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khesra,Calm,Popular calm tourist destination in Nepal.,26.79007,86.45578,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tuka,Calm,Popular calm tourist destination in Nepal.,29.33312,81.21897,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Garma,Calm,Popular calm tourist destination in Nepal.,27.46213,86.5857,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bharauli,Calm,Popular calm tourist destination in Nepal.,26.77008,87.18872,Walk/Taxi/Car,4.5,24 Hours
+Bindhabasini Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.83528,87.30202,Walk/Taxi/Car,4.5,24 Hours
+Budhasubba Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.82193,87.29652,Walk/Taxi/Car,4.5,24 Hours
+Dantakali Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.8189,87.2929,Walk/Taxi/Car,4.5,24 Hours
+Koshi Tappu wildlife Camp,Adventure,Popular adventure tourist destination in Nepal.,26.69011,87.08644,Walk/Taxi/Car,4.5,24 Hours
+Ramdhuni Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.69184,87.13662,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tanti,Calm,Popular calm tourist destination in Nepal.,28.78841,81.38959,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Barainche,Calm,Popular calm tourist destination in Nepal.,28.81273,81.41692,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khamari,Calm,Popular calm tourist destination in Nepal.,28.83696,81.42589,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dahathan,Calm,Popular calm tourist destination in Nepal.,28.82954,81.40841,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kharapu,Calm,Popular calm tourist destination in Nepal.,28.86517,81.1587,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kolte,Calm,Popular calm tourist destination in Nepal.,28.86819,81.4053,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dhanbot,Calm,Popular calm tourist destination in Nepal.,28.86556,81.44749,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khajura,Calm,Popular calm tourist destination in Nepal.,28.38714,81.75332,Walk/Taxi/Car,4.5,24 Hours
+Mathillo  Lamidanda,Calm,Popular calm tourist destination in Nepal.,28.40699,81.97382,Walk/Taxi/Car,4.5,24 Hours
+Hille,Calm,Popular calm tourist destination in Nepal.,28.41579,81.95181,Walk/Taxi/Car,4.5,24 Hours
+Hille,Calm,Popular calm tourist destination in Nepal.,28.41378,81.94648,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Leda,Calm,Popular calm tourist destination in Nepal.,28.636,81.74195,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bharleni,Calm,Popular calm tourist destination in Nepal.,28.49121,81.82793,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhawar,Calm,Popular calm tourist destination in Nepal.,28.86514,81.30756,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Nahagaun (kada),Calm,Popular calm tourist destination in Nepal.,28.59638,81.89704,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khanigaun,Calm,Popular calm tourist destination in Nepal.,28.54581,81.87623,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Parseni,Calm,Popular calm tourist destination in Nepal.,28.54536,81.60653,Walk/Taxi/Car,4.5,24 Hours
+Park Area,Calm,Popular calm tourist destination in Nepal.,28.58566,81.6223,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bharyang,Calm,Popular calm tourist destination in Nepal.,28.48243,81.57717,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Guranse,Calm,Popular calm tourist destination in Nepal.,28.47682,81.6016,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ratmate,Calm,Popular calm tourist destination in Nepal.,28.46859,81.80712,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bharjuni,Calm,Popular calm tourist destination in Nepal.,28.6016,81.78779,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khanigaaun,Calm,Popular calm tourist destination in Nepal.,28.54566,81.86888,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Rahakul,Calm,Popular calm tourist destination in Nepal.,28.61102,81.87698,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bhalukholagaun,Calm,Popular calm tourist destination in Nepal.,28.40681,81.90959,Walk/Taxi/Car,4.5,24 Hours
+Chille,Calm,Popular calm tourist destination in Nepal.,28.56776,81.72369,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chhahare,Calm,Popular calm tourist destination in Nepal.,28.07152,83.77042,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kudule,Calm,Popular calm tourist destination in Nepal.,28.17327,83.90615,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Tapke,Calm,Popular calm tourist destination in Nepal.,27.94269,83.81608,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Dugun,Calm,Popular calm tourist destination in Nepal.,29.56996,81.44844,Walk/Taxi/Car,4.5,24 Hours
+Sivalaya Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.8951,83.78871,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bajhadi,Calm,Popular calm tourist destination in Nepal.,27.91561,83.6549,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chyare,Calm,Popular calm tourist destination in Nepal.,27.97526,83.84646,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Baleu,Calm,Popular calm tourist destination in Nepal.,27.98151,83.86872,Walk/Taxi/Car,4.5,24 Hours
+Manakamana Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.99216,83.87179,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chitdada,Calm,Popular calm tourist destination in Nepal.,27.94277,83.73779,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kapri,Calm,Popular calm tourist destination in Nepal.,29.34337,81.72143,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bharle,Calm,Popular calm tourist destination in Nepal.,28.01547,83.63418,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Salyan,Calm,Popular calm tourist destination in Nepal.,27.99192,83.62853,Walk/Taxi/Car,4.5,24 Hours
+Chandisthan Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.10398,83.83272,Walk/Taxi/Car,4.5,24 Hours
+Phaparkhet,Calm,Popular calm tourist destination in Nepal.,28.14198,83.85758,Walk/Taxi/Car,4.5,24 Hours
+Kalika Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.01856,83.76487,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Chiuri,Calm,Popular calm tourist destination in Nepal.,27.96796,83.71231,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pekhu,Calm,Popular calm tourist destination in Nepal.,28.00055,83.73666,Walk/Taxi/Car,4.5,24 Hours
+Garhau Kalika Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.95683,83.77138,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Pitlek,Calm,Popular calm tourist destination in Nepal.,27.9801,83.81038,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Halthumka,Calm,Popular calm tourist destination in Nepal.,27.90578,84.38287,Walk/Taxi/Car,4.5,24 Hours
+Waterfall,Happy,Popular happy tourist destination in Nepal.,27.82658,84.48268,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Jal Bhanjyang,Calm,Popular calm tourist destination in Nepal.,27.88997,84.4351,Walk/Taxi/Car,4.5,24 Hours
+Bhote Camp,Adventure,Popular adventure tourist destination in Nepal.,28.05237,84.06955,Walk/Taxi/Car,4.5,24 Hours
+Mustange Bhote Camp,Adventure,Popular adventure tourist destination in Nepal.,28.03498,84.07421,Walk/Taxi/Car,4.5,24 Hours
+Chillechaur,Calm,Popular calm tourist destination in Nepal.,28.03958,84.08376,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Putgaun,Calm,Popular calm tourist destination in Nepal.,27.88013,84.00611,Walk/Taxi/Car,4.5,24 Hours
+Hulake Nahala,Calm,Popular calm tourist destination in Nepal.,27.97061,84.39138,Walk/Taxi/Car,4.5,24 Hours
+Bhanu Memorial Park,Calm,Popular calm tourist destination in Nepal.,27.98588,84.30834,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Gundadi,Calm,Popular calm tourist destination in Nepal.,27.97958,84.20721,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Setan,Calm,Popular calm tourist destination in Nepal.,27.92522,84.24351,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Setang,Calm,Popular calm tourist destination in Nepal.,27.92319,84.25254,Walk/Taxi/Car,4.5,24 Hours
+Parkuna,Calm,Popular calm tourist destination in Nepal.,27.93816,84.37113,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Galam,Calm,Popular calm tourist destination in Nepal.,28.05909,84.24464,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Umse,Calm,Popular calm tourist destination in Nepal.,27.88232,84.09883,Walk/Taxi/Car,4.5,24 Hours
+Byas Cave,Happy,Popular happy tourist destination in Nepal.,27.97133,84.26883,Walk/Taxi/Car,4.5,24 Hours
+Rest Camp,Adventure,Popular adventure tourist destination in Nepal.,27.78676,88.11915,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Korang,Calm,Popular calm tourist destination in Nepal.,27.08264,87.42293,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Hattikharka,Calm,Popular calm tourist destination in Nepal.,27.167,87.68191,Walk/Taxi/Car,4.5,24 Hours
+Mathillogaun,Calm,Popular calm tourist destination in Nepal.,27.10651,87.414,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Ahale,Calm,Popular calm tourist destination in Nepal.,27.14155,87.59161,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Malbanse,Calm,Popular calm tourist destination in Nepal.,26.96237,86.68852,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Lamiduwali,Calm,Popular calm tourist destination in Nepal.,26.91386,86.45685,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Bagaha,Calm,Popular calm tourist destination in Nepal.,26.7795,86.65245,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Khairikhuti,Calm,Popular calm tourist destination in Nepal.,28.146,81.93189,Walk/Taxi/Car,4.5,24 Hours
+Chilleta,Calm,Popular calm tourist destination in Nepal.,28.21728,81.65087,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Simalchaur,Calm,Popular calm tourist destination in Nepal.,27.2242,85.24205,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Yojana,Calm,Popular calm tourist destination in Nepal.,27.19309,85.20214,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Jyamire,Calm,Popular calm tourist destination in Nepal.,27.29945,85.12565,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kapra,Calm,Popular calm tourist destination in Nepal.,28.93931,81.35051,Walk/Taxi/Car,4.5,24 Hours
+Kalchillo,Calm,Popular calm tourist destination in Nepal.,29.22616,81.31156,Walk/Taxi/Car,4.5,24 Hours
+Mathillo Kankrabari,Calm,Popular calm tourist destination in Nepal.,27.6363,85.45587,Walk/Taxi/Car,4.5,24 Hours
+Churia Hills,Calm,Popular calm tourist destination in Nepal.,27.76667,82.4,Walk/Taxi/Car,4.5,24 Hours
+Sagarmatha National Park,Calm,Popular calm tourist destination in Nepal.,27.93333,86.73333,Walk/Taxi/Car,4.5,24 Hours
+Ghodaghodi Lake Area,Calm,Popular calm tourist destination in Nepal.,28.68417,80.94528,Walk/Taxi/Car,4.5,24 Hours
+Sankha Park,Calm,Popular calm tourist destination in Nepal.,27.73248,85.34266,Walk/Taxi/Car,4.5,24 Hours
+The Rhino Residency Resort,Romantic,Popular romantic tourist destination in Nepal.,27.57774,84.49325,Walk/Taxi/Car,4.5,24 Hours
+Machan Wildlife Resort,Romantic,Popular romantic tourist destination in Nepal.,27.50431,84.66614,Walk/Taxi/Car,4.5,24 Hours
+Begnas Lake Resort,Calm,Popular calm tourist destination in Nepal.,28.1658,84.0933,Walk/Taxi/Car,4.5,24 Hours
+Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.2053,83.96889,Walk/Taxi/Car,4.5,24 Hours
+Hotel Temple Tree,Spiritual,Popular spiritual tourist destination in Nepal.,28.20593,83.96321,Walk/Taxi/Car,4.5,24 Hours
+Tibet Resort,Romantic,Popular romantic tourist destination in Nepal.,28.26387,83.96112,Walk/Taxi/Car,4.5,24 Hours
+Shangri-La Village Resort,Romantic,Popular romantic tourist destination in Nepal.,28.39482,84.12399,Walk/Taxi/Car,4.5,24 Hours
+Mount Kallash Resort,Romantic,Popular romantic tourist destination in Nepal.,28.20443,83.96284,Walk/Taxi/Car,4.5,24 Hours
+Godavari Village Resort,Romantic,Popular romantic tourist destination in Nepal.,27.60859,85.35376,Walk/Taxi/Car,4.5,24 Hours
+The Fort Resort,Romantic,Popular romantic tourist destination in Nepal.,27.72358,85.52464,Walk/Taxi/Car,4.5,24 Hours
+Dhulikhel Lodge Resort,Romantic,Popular romantic tourist destination in Nepal.,27.62294,85.55203,Walk/Taxi/Car,4.5,24 Hours
+Mirabel Resort,Romantic,Popular romantic tourist destination in Nepal.,27.67252,85.4284,Walk/Taxi/Car,4.5,24 Hours
+Dhulikhel Mountain Resorts,Adventure,Popular adventure tourist destination in Nepal.,27.62091,85.54263,Walk/Taxi/Car,4.5,24 Hours
+Mountain,Adventure,Popular adventure tourist destination in Nepal.,27.70365,85.31391,Walk/Taxi/Car,4.5,24 Hours
+Waterfront Resort-Pokhara,Romantic,Popular romantic tourist destination in Nepal.,28.2217,83.95171,Walk/Taxi/Car,4.5,24 Hours
+Himalayan Deurali Resort,Romantic,Popular romantic tourist destination in Nepal.,28.2826,83.87419,Walk/Taxi/Car,4.5,24 Hours
+Trekkers Home,Adventure,Popular adventure tourist destination in Nepal.,27.71605,85.30918,Walk/Taxi/Car,4.5,24 Hours
+Hotel Space Mountain Pvt Ltd.,Adventure,Popular adventure tourist destination in Nepal.,27.71736,85.50457,Walk/Taxi/Car,4.5,24 Hours
+Samsara Resort,Romantic,Popular romantic tourist destination in Nepal.,27.7173,85.31842,Walk/Taxi/Car,4.5,24 Hours
+Atithi Resort & Spa Pokhara,Romantic,Popular romantic tourist destination in Nepal.,28.20679,83.96684,Walk/Taxi/Car,4.5,24 Hours
+Gokarna Forest Resort,Romantic,Popular romantic tourist destination in Nepal.,27.72707,85.3962,Walk/Taxi/Car,4.5,24 Hours
+Mount Kailash Resort,Romantic,Popular romantic tourist destination in Nepal.,28.26361,83.97239,Walk/Taxi/Car,4.5,24 Hours
+Hill Region,Calm,Popular calm tourist destination in Nepal.,27.92647,84.97513,Walk/Taxi/Car,4.5,24 Hours
+Ratna Park,Calm,Popular calm tourist destination in Nepal.,27.70505,85.31471,Walk/Taxi/Car,4.5,24 Hours
+Nārāyaṇhiṭi̇̄ Royal Palace,Happy,Popular happy tourist destination in Nepal.,27.7155,85.31987,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Buraṅchuli̇̄,Calm,Popular calm tourist destination in Nepal.,27.56176,85.29494,Walk/Taxi/Car,4.5,24 Hours
+Trek O Tel,Adventure,Popular adventure tourist destination in Nepal.,28.20869,83.95755,Walk/Taxi/Car,4.5,24 Hours
+Mountain Resort,Adventure,Popular adventure tourist destination in Nepal.,27.623,85.571,Walk/Taxi/Car,4.5,24 Hours
+Lāṅtāṅ National Park,Calm,Popular calm tourist destination in Nepal.,27.97466,85.45947,Walk/Taxi/Car,4.5,24 Hours
+Indra Sarowar Lake,Calm,Popular calm tourist destination in Nepal.,27.59873,85.16179,Walk/Taxi/Car,4.5,24 Hours
+Rināmo Hill,Calm,Popular calm tourist destination in Nepal.,28.24187,85.23163,Walk/Taxi/Car,4.5,24 Hours
+Lāṅṭāṅ National Park,Calm,Popular calm tourist destination in Nepal.,28.00197,85.65761,Walk/Taxi/Car,4.5,24 Hours
+Lāṅṭāṅ National Park,Calm,Popular calm tourist destination in Nepal.,27.98839,85.729,Walk/Taxi/Car,4.5,24 Hours
+Hanumante Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.65555,86.18393,Walk/Taxi/Car,4.5,24 Hours
+Kālinchok Bhagawati̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.75631,86.04835,Walk/Taxi/Car,4.5,24 Hours
+Gauri̇̄shaṅkar Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.9159,86.38233,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Pacharaṅ,Calm,Popular calm tourist destination in Nepal.,27.11071,86.14055,Walk/Taxi/Car,4.5,24 Hours
+Churiyā Hills,Calm,Popular calm tourist destination in Nepal.,27.36254,85.04941,Walk/Taxi/Car,4.5,24 Hours
+Mathillokā̃krābāri̇̄,Calm,Popular calm tourist destination in Nepal.,27.6325,85.45917,Walk/Taxi/Car,4.5,24 Hours
+Gaḍhi̇̄māi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.9934,85.0473,Walk/Taxi/Car,4.5,24 Hours
+Akaladevi Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.85719,84.0892,Walk/Taxi/Car,4.5,24 Hours
+National Museum of Nepal,Happy,Popular happy tourist destination in Nepal.,27.70526,85.2892,Walk/Taxi/Car,4.5,24 Hours
+Maṅgalnāth Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.88795,85.71121,Walk/Taxi/Car,4.5,24 Hours
+Koshi̇̄ Ṭappu Wildlife Camp,Adventure,Popular adventure tourist destination in Nepal.,26.68926,87.08143,Walk/Taxi/Car,4.5,24 Hours
+Barāha Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.87638,87.16576,Walk/Taxi/Car,4.5,24 Hours
+Rām Jānaki̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.64305,86.62178,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Churumphā,Calm,Popular calm tourist destination in Nepal.,26.96009,86.60027,Walk/Taxi/Car,4.5,24 Hours
+Rām Jānaki̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.57199,86.63961,Walk/Taxi/Car,4.5,24 Hours
+Lakeshwar Nadi̇̄,Calm,Popular calm tourist destination in Nepal.,26.55364,86.62849,Walk/Taxi/Car,4.5,24 Hours
+Pāṇḍaveshwor Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.97195,82.44556,Walk/Taxi/Car,4.5,24 Hours
+Khillu Kholā,Calm,Popular calm tourist destination in Nepal.,27.98977,83.04555,Walk/Taxi/Car,4.5,24 Hours
+Dantakāli̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.81824,87.28941,Walk/Taxi/Car,4.5,24 Hours
+Buḍhāsubbā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.82095,87.29593,Walk/Taxi/Car,4.5,24 Hours
+Bindhabāsini̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.83457,87.29914,Walk/Taxi/Car,4.5,24 Hours
+Sivālaya Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.89335,83.78423,Walk/Taxi/Car,4.5,24 Hours
+Garhaũ Kālikā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.95591,83.76641,Walk/Taxi/Car,4.5,24 Hours
+Manakāmanā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.99148,83.8677,Walk/Taxi/Car,4.5,24 Hours
+Rāmdhuni̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.69088,87.13174,Walk/Taxi/Car,4.5,24 Hours
+Byās Cave,Happy,Popular happy tourist destination in Nepal.,27.97024,84.26944,Walk/Taxi/Car,4.5,24 Hours
+Manakāmanā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.90436,84.58448,Walk/Taxi/Car,4.5,24 Hours
+Temple Tiger,Spiritual,Popular spiritual tourist destination in Nepal.,27.53698,84.07804,Walk/Taxi/Car,4.5,24 Hours
+Rāmpur Campus,Adventure,Popular adventure tourist destination in Nepal.,27.65038,84.35074,Walk/Taxi/Car,4.5,24 Hours
+Bindabāsini̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.0424,84.81823,Walk/Taxi/Car,4.5,24 Hours
+Gaḍhimāi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.05925,84.86101,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Ḍā̃ḍāgāũ,Calm,Popular calm tourist destination in Nepal.,27.47399,87.24411,Walk/Taxi/Car,4.5,24 Hours
+Godāwari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.87934,80.57857,Walk/Taxi/Car,4.5,24 Hours
+Bandevi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.8593,80.56778,Walk/Taxi/Car,4.5,24 Hours
+Behaḍā Bābā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.7426,80.70689,Walk/Taxi/Car,4.5,24 Hours
+Rauteli̇̄thalā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.9678,81.22757,Walk/Taxi/Car,4.5,24 Hours
+Mālikā Devi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.80005,81.02766,Walk/Taxi/Car,4.5,24 Hours
+Belāspur Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.858,81.72768,Walk/Taxi/Car,4.5,24 Hours
+Lālmāṭiyā Tent Camp,Adventure,Popular adventure tourist destination in Nepal.,28.58599,81.2728,Walk/Taxi/Car,4.5,24 Hours
+Chille Kholā,Calm,Popular calm tourist destination in Nepal.,28.56251,81.7229,Walk/Taxi/Car,4.5,24 Hours
+Māthillol Rahaku,Calm,Popular calm tourist destination in Nepal.,28.60917,81.88041,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Garjure,Calm,Popular calm tourist destination in Nepal.,28.52779,81.82121,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Nahāgāũ,Calm,Popular calm tourist destination in Nepal.,28.59401,81.89935,Walk/Taxi/Car,4.5,24 Hours
+Tārkeshwari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.28382,81.24732,Walk/Taxi/Car,4.5,24 Hours
+Royal Bardiyā National Park,Calm,Popular calm tourist destination in Nepal.,28.44509,81.46903,Walk/Taxi/Car,4.5,24 Hours
+Bāgeshwari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.06151,81.62442,Walk/Taxi/Car,4.5,24 Hours
+Kālikāmālikā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.74015,82.13996,Walk/Taxi/Car,4.5,24 Hours
+Bijayaswari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.65101,82.21317,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Chāṅliṅ,Calm,Popular calm tourist destination in Nepal.,28.41673,82.61812,Walk/Taxi/Car,4.5,24 Hours
+Barāh Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.44951,82.72276,Walk/Taxi/Car,4.5,24 Hours
+Jalake Kholā,Calm,Popular calm tourist destination in Nepal.,27.73586,84.23889,Walk/Taxi/Car,4.5,24 Hours
+Chitwan National Park,Calm,Popular calm tourist destination in Nepal.,27.57114,84.12314,Walk/Taxi/Car,4.5,24 Hours
+Khaptad National Park,Calm,Popular calm tourist destination in Nepal.,29.36116,81.09607,Walk/Taxi/Car,4.5,24 Hours
+Chitwan National Park,Calm,Popular calm tourist destination in Nepal.,27.54223,84.36358,Walk/Taxi/Car,4.5,24 Hours
+Khaptad National Park,Calm,Popular calm tourist destination in Nepal.,29.43045,81.08078,Walk/Taxi/Car,4.5,24 Hours
+Khaptad National Park,Calm,Popular calm tourist destination in Nepal.,29.35275,81.16436,Walk/Taxi/Car,4.5,24 Hours
+Chitwan National Park,Calm,Popular calm tourist destination in Nepal.,27.40386,84.62975,Walk/Taxi/Car,4.5,24 Hours
+Chitwan National Park,Calm,Popular calm tourist destination in Nepal.,27.50144,84.71225,Walk/Taxi/Car,4.5,24 Hours
+Nepal Trek Hub,Adventure,Popular adventure tourist destination in Nepal.,27.72594,85.31754,Walk/Taxi/Car,4.5,24 Hours
+Birāṭ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.44373,81.9583,Walk/Taxi/Car,4.5,24 Hours
+Piparkharka,Calm,Popular calm tourist destination in Nepal.,28.40924,83.96074,Walk/Taxi/Car,4.5,24 Hours
+Pāthibharā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,27.42973,87.76686,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Nāmpā,Calm,Popular calm tourist destination in Nepal.,30.08171,80.92976,Walk/Taxi/Car,4.5,24 Hours
+Sambhunāth Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.6286,86.68562,Walk/Taxi/Car,4.5,24 Hours
+Milerpā Cave,Happy,Popular happy tourist destination in Nepal.,28.64082,84.04038,Walk/Taxi/Car,4.5,24 Hours
+Tilicho Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.68001,83.90718,Walk/Taxi/Car,4.5,24 Hours
+Māchhāpuchchhre Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.52532,83.90814,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Mirbu,Calm,Popular calm tourist destination in Nepal.,29.11216,83.13645,Walk/Taxi/Car,4.5,24 Hours
+Simikoṭ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.96822,81.81592,Walk/Taxi/Car,4.5,24 Hours
+She-Phoksuṇḍo National Park,Calm,Popular calm tourist destination in Nepal.,29.24271,82.65881,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Īlli̇̄,Calm,Popular calm tourist destination in Nepal.,29.11721,82.5518,Walk/Taxi/Car,4.5,24 Hours
+Rārā National Park,Calm,Popular calm tourist destination in Nepal.,29.50629,82.05809,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Lek Goṭh,Calm,Popular calm tourist destination in Nepal.,29.6032,81.6943,Walk/Taxi/Car,4.5,24 Hours
+Maṣṭā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.65647,81.26521,Walk/Taxi/Car,4.5,24 Hours
+Mālikā Devi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.56057,81.39797,Walk/Taxi/Car,4.5,24 Hours
+Bardādevi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.19379,81.26572,Walk/Taxi/Car,4.5,24 Hours
+Mālikā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.36731,82.01082,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Dolāghāṭ,Calm,Popular calm tourist destination in Nepal.,29.18546,82.45051,Walk/Taxi/Car,4.5,24 Hours
+Lakṣmi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,26.47119,87.95565,Walk/Taxi/Car,4.5,24 Hours
+Annādatri̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.00508,82.24371,Walk/Taxi/Car,4.5,24 Hours
+Jalpādevi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.09204,81.21967,Walk/Taxi/Car,4.5,24 Hours
+Khappartolādevi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.08979,81.19425,Walk/Taxi/Car,4.5,24 Hours
+Talitrekharka,Adventure,Popular adventure tourist destination in Nepal.,28.65374,83.45041,Walk/Taxi/Car,4.5,24 Hours
+Puchhār Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.69229,83.43752,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Lek,Calm,Popular calm tourist destination in Nepal.,28.43801,82.83343,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Ḍhā̃ḍ,Calm,Popular calm tourist destination in Nepal.,27.91132,82.81245,Walk/Taxi/Car,4.5,24 Hours
+Jwālāmāi Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.81562,83.87051,Walk/Taxi/Car,4.5,24 Hours
+Shiva Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.81695,83.87074,Walk/Taxi/Car,4.5,24 Hours
+Ranchuṅ Cave,Happy,Popular happy tourist destination in Nepal.,28.96352,83.81844,Walk/Taxi/Car,4.5,24 Hours
+Everest Base Camp,Adventure,Popular adventure tourist destination in Nepal.,28.00729,86.85547,Walk/Taxi/Car,4.5,24 Hours
+Kailāsh Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.39854,81.4307,Walk/Taxi/Car,4.5,24 Hours
+Kailāshpati̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.40339,81.4652,Walk/Taxi/Car,4.5,24 Hours
+Baḍi̇̄ Mahkā Bhagawati̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.34663,81.47759,Walk/Taxi/Car,4.5,24 Hours
+Nāṭeshwari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.35979,81.37772,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Seri̇̄,Calm,Popular calm tourist destination in Nepal.,29.08317,81.68929,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Gairi̇̄gāũ,Calm,Popular calm tourist destination in Nepal.,29.03172,81.56725,Walk/Taxi/Car,4.5,24 Hours
+Surmā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.55199,81.19837,Walk/Taxi/Car,4.5,24 Hours
+Bhāgeshwari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.24583,80.43855,Walk/Taxi/Car,4.5,24 Hours
+Khilli̇̄ Gāḍ,Calm,Popular calm tourist destination in Nepal.,29.68072,80.70977,Walk/Taxi/Car,4.5,24 Hours
+Chaparke Kholā,Calm,Popular calm tourist destination in Nepal.,28.02245,82.34246,Walk/Taxi/Car,4.5,24 Hours
+Barāha Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.09598,82.44095,Walk/Taxi/Car,4.5,24 Hours
+Tribhuwan Park,Calm,Popular calm tourist destination in Nepal.,28.04555,82.48708,Walk/Taxi/Car,4.5,24 Hours
+Goraksaratna Nāth Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.02301,82.4966,Walk/Taxi/Car,4.5,24 Hours
+Ambeshwari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.0428,82.50088,Walk/Taxi/Car,4.5,24 Hours
+Bhagavati̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.14359,83.58793,Walk/Taxi/Car,4.5,24 Hours
+Gupteshwar Cave,Happy,Popular happy tourist destination in Nepal.,28.22834,83.67348,Walk/Taxi/Car,4.5,24 Hours
+Tāl Bārāhi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.20747,83.95363,Walk/Taxi/Car,4.5,24 Hours
+Ratna Mandir Palace,Happy,Popular happy tourist destination in Nepal.,28.20623,83.95873,Walk/Taxi/Car,4.5,24 Hours
+Basundharā Park,Calm,Popular calm tourist destination in Nepal.,28.20307,83.96478,Walk/Taxi/Car,4.5,24 Hours
+Bindhyābāsini̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.23782,83.98382,Walk/Taxi/Car,4.5,24 Hours
+Tibetian Refugee Camp,Adventure,Popular adventure tourist destination in Nepal.,28.18812,83.95578,Walk/Taxi/Car,4.5,24 Hours
+Chaṇḍisthān Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.10363,83.83159,Walk/Taxi/Car,4.5,24 Hours
+Kālikā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.01753,83.76032,Walk/Taxi/Car,4.5,24 Hours
+Bhadrakāli̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.21256,84.00713,Walk/Taxi/Car,4.5,24 Hours
+Dhor Bārāhi̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.06467,84.04498,Walk/Taxi/Car,4.5,24 Hours
+Bhoṭe Camp,Adventure,Popular adventure tourist destination in Nepal.,28.05224,84.06624,Walk/Taxi/Car,4.5,24 Hours
+Chilli̇̄ Kholā,Calm,Popular calm tourist destination in Nepal.,28.12022,84.55184,Walk/Taxi/Car,4.5,24 Hours
+Māthillo Gā̃khu,Calm,Popular calm tourist destination in Nepal.,28.06126,84.61254,Walk/Taxi/Car,4.5,24 Hours
+Kālikā Temple,Spiritual,Popular spiritual tourist destination in Nepal.,28.00438,84.62863,Walk/Taxi/Car,4.5,24 Hours
+Kriṣṇa Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.43661,80.61736,Walk/Taxi/Car,4.5,24 Hours
+Bhuminij Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.42993,80.73521,Walk/Taxi/Car,4.5,24 Hours
+Tripurā Sundari̇̄ Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.28342,80.57741,Walk/Taxi/Car,4.5,24 Hours
+Ghanteshwar Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.18165,80.61918,Walk/Taxi/Car,4.5,24 Hours
+Golmeswar Temple,Spiritual,Popular spiritual tourist destination in Nepal.,29.30026,80.8027,Walk/Taxi/Car,4.5,24 Hours
+Khillu Kholā,Calm,Popular calm tourist destination in Nepal.,28.04316,83.04498,Walk/Taxi/Car,4.5,24 Hours
